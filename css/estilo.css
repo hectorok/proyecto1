@@ -1,0 +1,21 @@
+#titulo{
+    color: red;
+}
+
+.subtitulos{
+    
+}
+.barraNav{
+    background-color: #343434;
+    padding: 15px;
+    text-align: end;
+}
+.barraNav li{
+    display: inline; 
+    margin-right: 20px;
+}
+.barraNav li a{
+    color: #f3f3f3;
+    text-decoration: none;
+    text-transform: uppercase;
+}
